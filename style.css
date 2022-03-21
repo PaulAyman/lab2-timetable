@@ -1,0 +1,15 @@
+table, th, td{
+    border-collapse: collapse;
+}
+.html{
+    background-color: rgb(238, 238, 27);
+}
+.css{
+    background-color: rgb(96, 247, 129);
+}
+.css205{
+    background-color: rgb(65, 182, 236);
+}
+.meeting{
+    background-color: gray;
+}
